@@ -142,6 +142,11 @@ ul {
   font-weight: 700;
   font-size: 1rem;
   text-decoration: none;
+  transition: 1s;
+}
+
+.botton-links:hover{
+  background-color: rgba(255, 255, 255, 0.713);
 }
 
 /*FIN MENU - GALERIA*/
