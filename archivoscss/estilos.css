@@ -46,7 +46,10 @@ ul {
   padding-bottom: 5px;
 }
 
+.links:hover{
+  border-bottom: 2px solid white;
 
+}
 
 .logo-nav-footer {
   border-radius: 50%;
